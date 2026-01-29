@@ -1,4 +1,3 @@
-💫 About Me:
 👋 Hi, I’m Deepak Kumar
 
 I’m an Integrated M.Tech student specializing in Cyber Security, with a strong interest in ethical hacking, penetration testing, and network security. I enjoy working hands-on with real-world security challenges and continuously improving my technical skills.
@@ -20,6 +19,3 @@ Integrated M.Tech in Cyber Security – VIT Bhopal University (2022 – Present)
 
 🚀 I’m passionate about learning, exploring new security tools, and applying theoretical knowledge to practical scenarios.
 📌 Currently focused on improving my skills in VAPT, penetration testing, and defensive security techniques.
-
-💻 Tech Stack:
-C++ JavaScript C++ Bash Script PowerShell Python Apache MySQL GitHub Testing-Library
